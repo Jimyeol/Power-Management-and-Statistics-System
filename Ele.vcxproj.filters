@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{ba1e625e-d3c3-486e-b44a-cc67a328e33b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dialog">
+      <UniqueIdentifier>{ff3d23c6-c627-4970-b803-173930ef7e26}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="Ele.reg" />
+    <None Include="res\Ele.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\EleDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Ele.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\images.png">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Logo.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bitmap3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bmp00001.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="intro.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Chelsea.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Stats.png">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Help.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="HelpButton.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="BackButtorn.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="help2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ele.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="EleDoc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="EleView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Customdc.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="TotalGraph.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Computer.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Aircon.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Eletronic.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Printers.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgAirconeStats.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgTurnOn.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEditLight.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgInputBld.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgLightStats.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgLightVolt.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgStats.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="Human.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgHuman.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEtcInput.h">
+      <Filter>Dialog</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ele.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EleDoc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EleView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TotalGraph.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Aircon.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Computer.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Eletronic.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Printers.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgAirconeStats.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgTurnOn.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEditLight.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgInputBld.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgLightStats.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgLightVolt.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgStats.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="Human.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgHuman.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEtcInput.cpp">
+      <Filter>Dialog</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Ele.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
