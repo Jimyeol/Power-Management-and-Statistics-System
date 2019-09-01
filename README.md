@@ -6,7 +6,8 @@ Power-Management-and-Statistics-System
 - MFC
 
 
-
+![screenshot1](./1.png)
+![screenshot1](./2.png)
 ## 사용 설명서
 먼저 전력 관리 및 통계 시스템.exe를 실행하면 창이 2개가 뜨는데
 다이얼로그창은 전력사용량과 그래프를 표시하는 다이얼로그입니다.
